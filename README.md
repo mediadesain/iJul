@@ -1,5 +1,5 @@
 # iJul Simple Page
-This is Sample Web Page with Drupal 7 with Bootsrap Framework.
+This is Sample Web Page with Drupal 7 & Bootsrap Framework.
 
 SQL Database inlude on database folder
 
